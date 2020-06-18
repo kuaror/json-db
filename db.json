@@ -1,0 +1,32 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "titulo": "React desde cero",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/bcb63ac0-5dc5-48b7-a111-9974a7fc3bcd.png",
+      "price": 40,
+      "professor": "Beto Quiroga"
+    },
+    {
+      "id": 2,
+      "titulo": "Drupal desde cero",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/bcb63ac0-5dc5-48b7-a111-9974a7fc3bcd.png",
+      "price": 30,
+      "professor": "Beto Quiroga"
+    }, 
+    {
+      "id": 3,
+      "titulo": "Go desde cero",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/bcb63ac0-5dc5-48b7-a111-9974a7fc3bcd.png",
+      "price": 50,
+      "professor": "Alexys Lozada"
+    }, 
+    {
+      "id": 4,
+      "titulo": "HTML desde cero",
+      "image": "/assets/img/background.jpg",
+      "price": 10,
+      "professor": "Alvaro Felipe"
+    }
+  ]
+}
